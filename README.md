@@ -5,3 +5,5 @@ Posterior predictive test of partitioned model of nucleotide estimated wiht MrBa
 
 The service performs a comparison between observed complexity of the data (sum of site-wise entropy) with distribution of simulated data from the posterior distribution (i.e. posterior predictive test).
 The results is given as a xml.
+
+the software is deployed within a [webservice](https://www.biodiversitycatalogue.org/rest_methods/116)
